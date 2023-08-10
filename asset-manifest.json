@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/MST-1/peppermint/static/css/main.ceb3fddb.css",
+    "main.js": "/MST-1/peppermint/static/js/main.32d3ca13.js",
+    "static/media/Frame 3.png": "/MST-1/peppermint/static/media/Frame 3.d589f63eb39ac073ead6.png",
+    "static/media/Frame 1.png": "/MST-1/peppermint/static/media/Frame 1.d95757451d334b638357.png",
+    "static/media/Frame 2.png": "/MST-1/peppermint/static/media/Frame 2.7dd5150dc071a284886c.png",
+    "static/media/1682676527_Peppermint.png": "/MST-1/peppermint/static/media/1682676527_Peppermint.e0a453fed1e1a6cb0cff.png",
+    "static/media/loupe.png": "/MST-1/peppermint/static/media/loupe.e1069a58d072b9ee6103.png",
+    "index.html": "/MST-1/peppermint/index.html",
+    "main.ceb3fddb.css.map": "/MST-1/peppermint/static/css/main.ceb3fddb.css.map",
+    "main.32d3ca13.js.map": "/MST-1/peppermint/static/js/main.32d3ca13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ceb3fddb.css",
+    "static/js/main.32d3ca13.js"
+  ]
+}
